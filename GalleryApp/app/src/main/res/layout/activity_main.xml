@@ -17,6 +17,7 @@
                 style="@style/VerticalColumn">
 
             <ImageView
+                    android:contentDescription="@string/abstractly_colored_flowers"
                     style="@style/ImageStyle"
                     android:src="@drawable/abstract_abstract_expressionism_art_2505693"/>
 
@@ -27,6 +28,7 @@
                 style="@style/VerticalColumn">
 
             <ImageView
+                    android:contentDescription="@string/sun_rising_over_misty_farmland"
                     style="@style/ImageStyle"
                     android:src="@drawable/aerial_photography_aerial_shot_aerial_view_2583847"
             />
