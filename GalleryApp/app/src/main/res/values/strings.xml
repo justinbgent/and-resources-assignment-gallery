@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="abstractly_colored_flowers">abstractly colored flowers</string>
+    <string name="sun_rising_over_misty_farmland">sun rising over misty farmland</string>
+    <string name="automobile">automobile in rocky landscape</string>
+    <string name="smooth_cliff">smooth cliff touching ocean</string>
+    <string name="alley">city alley way</string>
+    <string name="vegas_night">Las Vegas night aerial photo</string>
+    <string name="fireworks">fireworks in the sky</string>
+    <string name="rose">rose with dark background</string>
+    <string name="shoes">shoes toes pointing down</string>
+    <string name="palm_leaves">light clouds with palm leaves</string>
+    <string name="roof_tops">bright colored roof tops</string>
+    <string name="outer_space">a galaxy</string>
+</resources>
